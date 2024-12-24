@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Hatem</h1>
 <h3 align="center">An enthusiastic Software Engineer from Ain Shams University. I’m fascinated by all things tech—whether it’s software or hardware, I’m always exploring new ways to make them work together seamlessly. I also have a love for touch typing and have achieved some pretty awesome stats along the way! Feel free to check out my projects.</h3>
-<br>
 <img align="right" alt="Night Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="width:300px;">
 
 - 🌱 I’m currently learning **ASP.NET , Problem Solving, UEFN and Verse**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdelmiged](https://github.com/Abdelmiged)
+- 👨‍💻 All of my projects are available at [https://github.com/Abdelmiged?tab=repositories](https://github.com/Abdelmiged?tab=repositories)
 
 - 📫 How to reach me **abdulmajeed.hatem@gmail.com**
 
